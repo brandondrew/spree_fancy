@@ -19,6 +19,12 @@ this line:
 gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '1-3-stable'
 ```
 
+If you're using Spree 2.0 (or any other specific version), change the specified version accordingly:
+
+```
+gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '2-0-stable'
+```
+
 If you are using Spree's master branch, then use this line:
 
 ```
